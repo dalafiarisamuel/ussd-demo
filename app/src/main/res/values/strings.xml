@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">USSD Test</string>
+
+    <string name="item_desc" formatted="false">Click this if your network provider is %s</string>
+    <string name="item_desc_generic" formatted="false">Click this if you are testing in Emulator</string>
+    <string name="response" formatted="false">Response received from USSD: "%s"</string>
+
+    <string name="permission_location">We need to read your location in order to provide you with the best offers available in your region. We value your privacy! We will never sell or misuse your personal information.</string>
+    <string name="permission_phone">We want you to have the best experience possible. We would like to auto fetch your phone number from your device. We would never violate your personal information</string>
+    <string name="permission_accessibility">The app requires accessibility permission in order to interpret the incoming USSD messages for the device.</string>
+
+</resources>
